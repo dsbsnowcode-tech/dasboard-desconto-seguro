@@ -21,4 +21,4 @@ Power BI | DAX | What-If | RLS | Python | Git
 (Em breve - vídeo de 60s)
 
 ---
-Feito por Dilson - Analista de BI | Bauru-SP﻿# dasboard-desconto-seguro
+
